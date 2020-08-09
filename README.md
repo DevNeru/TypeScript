@@ -1,0 +1,2 @@
+# TypeScript
+Me learning TypeScript!
